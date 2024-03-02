@@ -1,4 +1,4 @@
-# Tableau Dashboard
+# HR Analytics Dashboard
 This Dashboards aims to provide insights of HR Data Analysis. 
 - Who works with us?
 - Gender Distribution in the staff
